@@ -1,2 +1,3 @@
-django-examples
+django projects
 ===============
+* Polls
